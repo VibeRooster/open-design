@@ -397,6 +397,15 @@ Two **modes** anchor the design-template catalog: `prototype` (web/mobile/deskto
 
 Full protocol and directory split → [`docs/skills-protocol.md`](docs/skills-protocol.md). Registry endpoints: `GET /api/skills` for functional skills and `GET /api/design-templates` for rendering templates.
 
+### Before/after example
+
+A plain weekly ops page, before and after the [`dashboard`](design-templates/dashboard/) design template with the Mission Control design system: a sidebar admin layout, KPI data tiles, an urgent-amount chart, a filterable urgent table with an empty state, and a pending panel, using only Mission Control's tokens.
+
+- Before: https://skill-fixture-before.theroost.dev
+- After: https://open-design-dashboard-after.theroost.dev
+
+_Illustrative, community-contributed example; not an official demo or benchmark._
+
 ---
 
 ## Design Systems
